@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26654874398",
+    "project_id": "driftaway-0811",
+    "storage_bucket": "driftaway-0811.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26654874398:android:988a68750a84a688f9c70f",
+        "android_client_info": {
+          "package_name": "com.example.driftaway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3dV35Y6TZzTTcmeC8eCdTaqAhT7-jyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
