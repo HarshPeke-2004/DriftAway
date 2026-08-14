@@ -438,9 +438,9 @@ class _BookingState extends State<BookingScreen> {
                           builder: (context) => PaypalCheckoutView(
                             sandboxMode: true,
                             clientId:
-                                "AWavo88toW40JBjA8PPyqr97jwMdZ8VqByQhOXvl4QMi5pxz1EKKNUDSvcNTpId5O9JqKqEglsskms6p",
+                                "Your PAYPAL client id",
                             secretKey:
-                                "ECSQAp-U3TB7-rjyuSZn_0Q7xMqeXZaN2LNBMWwMng1rrmHy9uVpfHhocIlXXgPxZFH2FEHAJjwN-byr",
+                                "YOUR paypal secret key",
                             transactions: [
                               {
                                 "amount": {
